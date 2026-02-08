@@ -1,16 +1,61 @@
-## Hi there 👋
+## 👋 Bonjour, voici mon profil
 
-<!--
-**LTaloumi/LTaloumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **TALOUMI LAILA**  
+## **Gestion Administrative & Coordination des Demandes**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:exemple@email.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧾 **À propos**
+
+Professionnelle de l’administration et de la gestion, spécialisée dans le **traitement, le suivi et la coordination des demandes administratives**. Habituée aux environnements structurés et exigeants, je veille à la **fiabilité des informations**, au **respect des délais** et à la **fluidité des échanges** entre les équipes.
+
+---
+
+### 🏢 **Expérience Professionnelle**
+
+#### **Planificatrice Administrative – Axa Services**
+- Organisation et suivi des demandes administratives  
+- Coordination entre les équipes internes  
+- Gestion des plannings, effectifs et mouvements  
+- Mise à jour et fiabilisation des données administratives  
+
+#### **Assistante Administrative / Gestion**
+- Traitement des dossiers administratifs  
+- Suivi des procédures internes  
+- Support aux équipes opérationnelles  
+- Organisation documentaire et reporting administratif  
+
+---
+
+### 🎓 **Formation**
+
+- **Licence en Gestion et Administration des Entreprises**  
+- **Baccalauréat**  
+
+---
+
+### 🛠️ **Compétences Clés**
+
+- Gestion des demandes administratives  
+- Organisation et coordination  
+- Suivi des dossiers et reporting  
+- Gestion documentaire  
+- Communication interne  
+- Rigueur et sens du service  
+
+---
+
+### 📌 **Valeurs professionnelles**
+
+✔ Organisation  
+✔ Fiabilité  
+✔ Confidentialité  
+✔ Réactivité  
+✔ Esprit d’équipe  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=TaloumiLaila&icon=0&color=0)](https://visitcount.itsvg.in)
