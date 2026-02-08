@@ -16,10 +16,10 @@ Professionnelle de l’administration et de la gestion, spécialisée dans le **
 
 ### 🏢 **Expérience Professionnelle**
 
-#### **Planificatrice Administrative – Axa Services**
+#### **Coordinatrice Administrative – Sogea Maroc**
 - Organisation et suivi des demandes administratives  
 - Coordination entre les équipes internes  
-- Gestion des plannings, effectifs et mouvements  
+- Gestion des accés, effectifs et mouvements  
 - Mise à jour et fiabilisation des données administratives  
 
 #### **Assistante Administrative / Gestion**
